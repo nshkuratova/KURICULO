@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D://Kuriculo/Kuriculo.iml" filepath="D://Kuriculo/Kuriculo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kuriculo.iml" filepath="$PROJECT_DIR$/kuriculo.iml" />
     </modules>
   </component>
 </project>
