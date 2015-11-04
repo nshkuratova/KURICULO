@@ -2,11 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c85e27ae-e034-49eb-ab11-3bb08dd8d888" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/net/kuriculo/dao/DataBaseInitializer.java" afterPath="$PROJECT_DIR$/src/main/java/net/kuriculo/dao/DataBaseInitializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/net/kuriculo/entity/NewsEntry.java" afterPath="$PROJECT_DIR$/src/main/java/net/kuriculo/entity/NewsEntry.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/net/kuriculo/dao/newsentry/NewsEntryDao.java" afterPath="$PROJECT_DIR$/src/main/java/net/kuriculo/dao/newsentry/NewsEntryDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/net/kuriculo/rest/UnauthorizedEntryPoint.java" afterPath="$PROJECT_DIR$/src/main/java/net/kuriculo/rest/UnauthorizedEntryPoint.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\classes\META-INF\persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\classes\context.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\META-INF\persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\context.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\JsonViews$Admin.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\JsonViews$User.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\JsonViews.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\dao\Dao.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\dao\DataBaseInitializer.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\dao\JpaDao.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\dao\newsentry\JpaNewsEntryDao.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\dao\newsentry\NewsEntryDao.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\dao\user\JpaUserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\dao\user\UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\entity\Entity.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\entity\NewsEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\entity\User.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\rest\AuthenticationTokenProcessingFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\rest\TokenUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\rest\UnauthorizedEntryPoint.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\rest\resources\NewsEntryResource.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\rest\resources\UserResource.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\transfer\TokenTransfer.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\classes\net\kuriculo\transfer\UserTransfer.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\css\custom.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\js\app.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\js\config.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\partials\create.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\partials\edit.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\partials\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\KURICULO\target\kuriculo-0.3.0-SNAPSHOT\partials\login.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/net/kuriculo/dao/DataBaseInitializer.class" afterPath="$PROJECT_DIR$/target/classes/net/kuriculo/dao/DataBaseInitializer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/net/kuriculo/entity/NewsEntry.class" afterPath="$PROJECT_DIR$/target/classes/net/kuriculo/entity/NewsEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/net/kuriculo/rest/UnauthorizedEntryPoint.class" afterPath="$PROJECT_DIR$/target/classes/net/kuriculo/rest/UnauthorizedEntryPoint.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MOVED" beforePath="D:\KURICULO\Kuriculo.iml" afterPath="$PROJECT_DIR$/kuriculo.iml" />
     </list>
@@ -31,16 +68,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="persistence.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="context.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/context.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,11 +148,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kuriculo.iml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="kuriculo.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kuriculo.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.1141397">
-              <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonViews.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/kuriculo/JsonViews.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3475298">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -181,7 +218,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
+    <option name="width" value="1924" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -780,6 +817,47 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -800,6 +878,100 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -823,12 +995,26 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -857,6 +1043,15 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
     <configuration default="false" name="tom" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.21" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
@@ -946,7 +1141,7 @@
       <option name="number" value="Default" />
       <updated>1446655987812</updated>
       <workItem from="1446655991040" duration="58000" />
-      <workItem from="1446656063543" duration="1626000" />
+      <workItem from="1446656063543" duration="2029000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1446656525814</created>
@@ -954,15 +1149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1446656525814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2">
+      <created>1446657698155</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1446657698155</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1684000" />
+    <option name="totallyTimeSpent" value="2087000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1924" height="1050" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -973,14 +1174,15 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.75891894" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2518363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -991,7 +1193,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1173,14 +1374,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/kuriculo/JsonViews.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1255,8 +1448,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kuriculo.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1141397">
-          <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/kuriculo/JsonViews.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3475298">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
