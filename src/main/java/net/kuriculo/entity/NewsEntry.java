@@ -10,12 +10,6 @@ import net.kuriculo.JsonViews;
 
 import org.codehaus.jackson.map.annotate.JsonView;
 
-
-/**
- * JPA Annotated Pojo that represents a news entry.
- * 
- * @author Philip W. Sorst <philip@sorst.net>
- */
 @javax.persistence.Entity
 public class NewsEntry implements Entity
 {

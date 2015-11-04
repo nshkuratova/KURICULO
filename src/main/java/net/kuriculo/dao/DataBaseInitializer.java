@@ -9,12 +9,6 @@ import net.kuriculo.entity.User;
 
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-
-/**
- * Initialize the database with some test entries.
- * 
- * @author Philip W. Sorst <philip@sorst.net>
- */
 public class DataBaseInitializer
 {
 
