@@ -164,6 +164,12 @@
 			<version>${javax.servlet-api.version}</version>
 			<scope>provided</scope>
 		</dependency>
+<!--
+		<dependency>
+			<groupId>org.hibernate.common</groupId>
+			<artifactId>hibernate-commons-annotations</artifactId>
+			<version>${org.hibernate.version}</version>
+		</dependency>-->
 
     	<dependency>
     		<groupId>org.springframework</groupId>
@@ -177,7 +183,19 @@
     		<artifactId>junit</artifactId>
     		<version>${junit.version}</version>
     		<scope>test</scope>
-    	</dependency>
+		</dependency>
+
+	<dependency>
+		<groupId>com.h2database</groupId>
+		<artifactId>h2</artifactId>
+		<version>1.4.187</version>
+	</dependency>
+	<dependency>
+		<groupId>org.hibernate</groupId>
+		<artifactId>hibernate-core</artifactId>
+		<version>${org.hibernate.version}</version>
+	</dependency>
+
 	</dependencies>
 	
 </project>
