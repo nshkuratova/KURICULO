@@ -5,16 +5,36 @@
 	id="WebApp_ID" version="2.5">
 	
 	<display-name>kuriculo</display-name>
-	
+<!--	<filter>
+		<filter-name>springSecurityFilterChain</filter-name>
+		<filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>springSecurityFilterChain</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>-->
+
 	<!--
 		Load Spring Context 
 	 -->
-	<context-param>
+
+	<servlet>
+		<servlet-name>kuriculo</servlet-name>
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>kuriculo</servlet-name>
+		<url-pattern>*.jsp</url-pattern>
+	</servlet-mapping>
+
+<!--	<context-param>
 		<param-name>contextConfigLocation</param-name>
 		<param-value>
-			classpath:/context.xml
+			classpath:/applicationContext.xml
 		</param-value>
-	</context-param>
+	</context-param>-->
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
 	</listener>
@@ -22,7 +42,7 @@
 	<!--
 		Map the REST Servlet to /rest/ 
 	 -->
-	<servlet>
+<!--	<servlet>
 		<servlet-name>RestService</servlet-name>
 		<servlet-class>com.sun.jersey.spi.spring.container.servlet.SpringServlet</servlet-class>
 		<init-param>
@@ -40,9 +60,9 @@
 		<url-pattern>/rest/*</url-pattern>
 	</servlet-mapping>
 	
-	<!--
+	&lt;!&ndash;
 		Apply Spring Security Filter to all Requests 
-	 -->
+	 &ndash;&gt;
 	<filter>
         <filter-name>springSecurityFilterChain</filter-name>
         <filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
@@ -50,6 +70,6 @@
     <filter-mapping>
         <filter-name>springSecurityFilterChain</filter-name>
         <url-pattern>/*</url-pattern>
-    </filter-mapping>
+    </filter-mapping>-->
     
 </web-app>
