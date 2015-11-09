@@ -124,9 +124,10 @@
 
 		<dependency>
 			<groupId>javax.servlet</groupId>
-			<artifactId>javax.servlet-api</artifactId>
-			<version>3.1.0</version>
+			<artifactId>servlet-api</artifactId>
+			<version>2.5</version>
 		</dependency>
+
 
 		<dependency>
 			<groupId>com.sun.jersey</groupId>
